@@ -19,7 +19,7 @@ Each Homework in this repository represents a unique aspect of machine learning,
 
 
 ### Navigating the Repository
-- The repository is organized into folders, each representing a specific project or a concept in machine learning.
+- The repository is organized into folders, each representing a specific topics or a concept in machine learning.
 - Each folder contains all the necessary files, including datasets, Python scripts, and Jupyter notebooks.
 - Detailed README files are available in each folder to guide you through the projects.
 
